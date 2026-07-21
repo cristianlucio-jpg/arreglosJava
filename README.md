@@ -41,12 +41,12 @@ Forma parte de un portafolio académico y profesional orientado a la práctica d
 ```text
 arreglosJava/
 ├── src/
-│   ├── ejercicio01/invertirVector.java
-│   ├── ejercicio02/mayorElementoVector.java
-│   ├── ejercicio03/matrizDiagonal.java
-│   ├── ejercicio04/sumarFilasColumnas.java
-│   ├── ejercicio05/urbanizacion.java
-│   └── ejercicio06/ventasTiendas.java
+│   ├── ejercicio01InvertirVector/invertirVector.java
+│   ├── ejercicio02MayorElementoVector/mayorElementoVector.java
+│   ├── ejercicio03MatrizDiagonal/matrizDiagonal.java
+│   ├── ejercicio04SumarFilasColumnas/sumarFilasColumnas.java
+│   ├── ejercicio05Urbanizacion/urbanizacion.java
+│   └── ejercicio06VentasTiendas/ventasTiendas.java
 └── README.md
 
 Autor
